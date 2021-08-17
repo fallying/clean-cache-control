@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "jonasexplore <jonasexplore@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest --no-cache --watchAll"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@types/node": "^16.6.1",
