@@ -1,0 +1,7 @@
+{
+  "name": "clean-cache-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jonasexplore <jonasexplore@gmail.com>",
+  "license": "MIT"
+}
